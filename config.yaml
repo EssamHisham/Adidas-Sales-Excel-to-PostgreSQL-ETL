@@ -1,0 +1,9 @@
+excel_file_path: "data/sales_data.xlsx"
+log_file_path: "logs/etl.log"
+
+db_config:
+  user: "postgres"
+  password: "1234"
+  host: "localhost"
+  port: 5432
+  database: "sales_db"

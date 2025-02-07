@@ -1,0 +1,22 @@
+2025-02-05 21:38:25,523 - INFO - ETL process started.
+2025-02-05 21:38:26,952 - INFO - Data extraction completed.
+2025-02-05 21:38:26,962 - INFO - Data transformation completed.
+2025-02-05 21:38:27,974 - INFO - Transformed data saved to transformed_data.xlsx.
+2025-02-05 21:40:45,720 - INFO - ETL process started.
+2025-02-05 21:40:46,450 - INFO - Data extraction completed.
+2025-02-05 21:40:46,457 - INFO - Data transformation completed.
+2025-02-05 21:40:47,513 - INFO - Transformed data saved to transformed_data.xlsx.
+2025-02-05 21:42:13,623 - INFO - ETL process started.
+2025-02-05 21:42:14,274 - INFO - Data extraction completed.
+2025-02-05 21:42:14,281 - INFO - Data transformation completed.
+2025-02-05 21:42:15,355 - INFO - Transformed data saved to transformed_data.xlsx.
+2025-02-05 21:42:15,454 - INFO - Database schema created.
+2025-02-05 21:42:16,033 - INFO - Data successfully loaded into the database.
+2025-02-05 21:42:16,033 - INFO - ETL process completed successfully.
+2025-02-05 21:48:24,908 - INFO - ETL process started.
+2025-02-05 21:48:25,605 - INFO - Data extraction completed.
+2025-02-05 21:48:25,614 - INFO - Data transformation completed.
+2025-02-05 21:48:26,747 - INFO - Transformed data saved to transformed_data.xlsx.
+2025-02-05 21:48:26,791 - INFO - Database schema created.
+2025-02-05 21:48:27,236 - INFO - Data successfully loaded into the database.
+2025-02-05 21:48:27,236 - INFO - ETL process completed successfully.
